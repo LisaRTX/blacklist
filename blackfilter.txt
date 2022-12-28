@@ -44,3 +44,4 @@ https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pi
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
 https://github.com/bmyjacks/adlists/blob/master/adlists/AdAway.txt
+https://raw.githubusercontent.com/Jigsaw88/Spotify-Ad-List/main/Spotify%20Adblock.txt
