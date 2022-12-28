@@ -43,4 +43,4 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-A
 https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
-https://raw.githubusercontent.com/vincentkenny01/spotblock/master/spotify
+https://gist.githubusercontent.com/Davoleo/f754bc66c84696495c782442db44bf58/raw/15051ec5de030fb517e41939ec3b31b3bac6d2fc/hosts
