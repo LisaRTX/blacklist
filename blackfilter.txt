@@ -43,5 +43,4 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-A
 https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
-https://github.com/bmyjacks/adlists/blob/master/adlists/AdAway.txt
-https://raw.githubusercontent.com/root-host/Spotify-AdBlock/master/domains2
+https://raw.githubusercontent.com/vincentkenny01/spotblock/master/spotify
